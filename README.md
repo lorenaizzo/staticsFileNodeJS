@@ -3,8 +3,8 @@ Ejemplo nivel principiante de uso de archivos estaticos en NodeJS
 
 ## Para inicial la app
 
-- 1. npm install
-- 2. node app
+1. npm install
+2. node app
 
 ## Para probar el funcionamiento de la app
 
